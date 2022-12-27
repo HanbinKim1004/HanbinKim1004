@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ### 💻 Tech Stack
 
 - Programming <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-- Framework #FF6F00
+- Framework <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+
 
