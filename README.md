@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - Data Framework <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> 
 - Crawling <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> 
 - BI_Tool <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Amplitude-150458?style=for-the-badge&logo=Amplitude&logoColor=white"> 
-- Database <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=Google_Cloud&logoColor=white">
-- Code Tool <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=Google_Colab&logoColor=white">
+- Database <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
+- Code Tool <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
